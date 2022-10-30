@@ -1,123 +1,106 @@
+# AI/ML Portfolio
 ---
-layout: default
+## Deep learning
+
+### RNA small molecule prediction
+
+• A deep learning model for predictions of RNA small molecules.
+• This is an LSTM – GRU model which is a sequence to sequence model .
+• Later this deep learning model was used for all the RNA sequences .
+
+
+<center><img src="assets/img/fraud_detection.jpg"/></center>
+
 ---
+### HERG toxicity model
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+• A machine learning model which predicts if the molecule is herg toxic or not.
+• This is a classification model used for predicting toxic or intoxic.
+• Used Deep Neural Networks for these predictions.
+• Later these models were used for predicting of toxic and intoxic molecules.
+• Performed similarity maps where it predicts the toxicity of every part of a 
+ molecule.
 
-[Link to another page](./another-page.html).
+<center><img src="assets/img/financial_modeling.jpg"/></center>
 
-There should be whitespace between paragraphs.
+---
+### Attention Transformer
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+• Designed a single neural network architecture that performs competitively 
+ across a range of molecule property prediction.
+• Developed this deep learning model for prediction of properties of 
+molecules
+• This deep learning model was further used for the machine learning models 
+ developed.
 
-# Header 1
+<center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+---
+### Deep Docking
 
 
-### Definition lists can be used with HTML syntax.
+• A deep learning model for augmentation of structure based drug discovery.
+• Developed this model to predict the docking score for molecules.
+• Libraries used are tensorflow, keras, rdkit and sci-kit learn.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<center><img src="assets/img/text_classification.png"/></center>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+##Machine Learning
+---
+### Half- life Prediction
 
-```
-The final element.
-```
+• Performed data analytics and visualization for human and rat half-life data.
+• Predicted machine learning models and performed similarity maps for low 
+and  high half-life data.
+
+
+<center><img src="assets/img/machine_learning.jpg"/></center>
+
+---
+### Triple Re-uptake models
+
+• A machine learning model which predicts if the molecule is active or inactive
+• This is a classification model used for predicting active or inactive.
+• Triple re-uptake has three sets of data SERT, NET and DAT.
+• Used XG boost classifier model for these predictions.
+• Later these models were used for predicting of active and inactive 
+molecules
+
+<center><img src="assets/img/gesture_recognition.jpg"/></center>
+
+---
+### HERG toxicity model
+
+• A machine learning model which predicts if the molecule is herg toxic or not.
+• This is a classification model used for predicting toxic or intoxic.
+• Used Deep Neural Networks for these predictions.
+• Later these models were used for predicting of toxic and intoxic molecules.
+• Performed similarity maps where it predicts the toxicity of every part of a 
+ molecule.
+
+<center><img src="assets/img/human_activity.jpg"/></center>
+
+---
+### Blood Brain Barrier Permeability
+
+• Developed a machine learning model to predict Blood Brain Barrier 
+ Permeability using various classification algorithms and observed best 
+model by  Extreme Gradient Boosting (XG boost) Algorithm.
+• Performed data pre-processing on the dataset gathered from various 
+ publications.
+• Analyzed data using rdkit, numpy, pandas and seaborn
+
+<center><img src="assets/img/human_activity.jpg"/></center>
+
+---
+### Solubility Prediction tool
+
+• supported in development of a machine learning models to predict and 
+assess  compound solubility and decision making using multiple regression 
+and  classification algorithms and further validated using externaldataset
+• Performed data pre-processing on the dataset gathered from various 
+ publications.
+• Analysed data using rdkit, numpy, pandas and seaborn.
+
+<center><img src="assets/img/human_activity.jpg"/></center>
+
