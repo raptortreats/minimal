@@ -1,6 +1,19 @@
 title: Rochish G.S.K
 logo: /assets/img/Profile photo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="/assets/img/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rochish-g-s-k-85137b112/">LinkedIn</a> |
+  <a href="https://github.com/raptortreats">GitHub</a>
+ 
+  <br>  
+  I'm working on Data Science, Machine learning, Deep learning and building generative models with drug data.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with data analytics, visualization, ML models at CADD team for drug data.
+  Working in AI feild for 2 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
