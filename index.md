@@ -9,7 +9,7 @@
 • Later this deep learning model was used for all the RNA sequences .
 
 
-<center><img src="assets/img/rns.png"/></center>
+<center><img src="[assets/img/rns.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcen.acs.org%2Fpharmaceuticals%2Fdrug-discovery%2FRoche-partners-Arrakis-small-molecules%2F98%2Fi14&psig=AOvVaw3_kI2HUoHnEpOqSdmDCmj7&ust=1667213210371000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjf4NTjh_sCFQAAAAAdAAAAABAs)"/></center>
 
 ---
 ### HERG toxicity model
