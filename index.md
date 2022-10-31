@@ -9,7 +9,7 @@
 • Later this deep learning model was used for all the RNA sequences .
 
 
-<center><img src="assets/img/fraud_detection.jpg"/></center>
+<center><img src="assets/img/rns.png"/></center>
 
 ---
 ### HERG toxicity model
